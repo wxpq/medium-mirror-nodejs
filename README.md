@@ -1,2 +1,2 @@
 # medium2pdf
-a simple script to create pdf file from medium links
+a simple script mirror medium links and output static html
